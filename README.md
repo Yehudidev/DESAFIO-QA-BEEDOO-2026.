@@ -17,6 +17,7 @@ E o usuário é direcionado para a tela de cursos cadastrados
 
 Link: https://drive.google.com/file/d/1bMdvcsUlCytyCoP_BcRoW1-k19hdi8ZY/view?usp=drive_link
 Severidade: Média
+
 —------------------------------------------------------
 002-Título: Curso Cadastrar - Validação das datas do curso
 
@@ -34,6 +35,7 @@ E o usuário é direcionado para a tela de cursos cadastrados
 Link:https://drive.google.com/file/d/1bMdvcsUlCytyCoP_BcRoW1-k19hdi8ZY/view?usp=drive_link
 Severidade: Média
 
+
 —----------------------------------------------------
 
 003-Título: CursoCadastrar - Validação de formato de email
@@ -48,10 +50,11 @@ E envia o formulário de cadastro do curso
 Então o sistema aceita o formulário
 E o usuário é direcionado para a tela de cursos cadastrados
 
-Severidade para o usuário: Média
 
 Link:https://drive.google.com/file/d/1rxnq61mWaqq86VpjBF1Dy9n7QFyY4lK8/view?usp=drive_link
 Severidade: Média
+
+
 —----------------------------------------------------------------
 
 004-Título: CursoCadastrar - Validação de campos obrigatórios
@@ -70,6 +73,8 @@ E o usuário é direcionado para a tela de cursos cadastrados
 
 Link: https://drive.google.com/file/d/1ZSZgull99AG68lM_4JdnC9o8eMSNbNNg/view?usp=drive_link
 Severidade: Alta
+
+
 —---------------------------------------------------------
 
 005-Título: CursoCadastrar - Validação de endereço para curso presencial
@@ -85,7 +90,6 @@ E envia o formulário de cadastro do curso
 Então o sistema aceita o formulário
 E o usuário é direcionado para a tela de cursos cadastrados
 
-Severidade para o usuário: Média
 
 
 Link: https://drive.google.com/file/d/1L7VHyjOjDPurwxuW9juF5SaJok5B9pgj/view?usp=drive_link
@@ -108,6 +112,8 @@ Então o usuário identifica que não existe opção de editar o curso
 
 Link: https://drive.google.com/file/d/1ENhsfBMg9rThBJ1QrZwm9xj1S-CLyTZj/view?usp=drive_link
 Severidade para o usuário: Média
+
+
 —---------------------------------------------------------
 
 007-Título: ListaDeCursos - Exclusão de curso cadastrado
@@ -124,6 +130,8 @@ Então o curso permanece listado na tela de cursos cadastrados
 
 Link: https://drive.google.com/file/d/18_TZPd1uDghU4mZnUxdMwdl83fjfZge4/view?usp=drive_link
 Severidade para o usuário: Critico 
+
+
 —--------------------------------------------------
 
 008-TÍtulo:ListaDeCursos - Funcionamento do botão listar cursos
@@ -141,6 +149,8 @@ E o usuário é direcionado para a próxima tela
 
 Link: https://drive.google.com/file/d/15IQN-2c-OtLTxssqOp2GMCD45FpS7PtN/view?usp=drive_link
 Severidade para o usuário: Baixa
+
+
 —--------------------------------------------------------
 
 Principais Correções
